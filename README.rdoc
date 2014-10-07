@@ -1,6 +1,6 @@
 == README
 
-I'm nothing special but
+I'm nothing special, but
 You can find me on heroku.com ! 
 
 http://infinite-wildwood-9271.herokuapp.com/users
